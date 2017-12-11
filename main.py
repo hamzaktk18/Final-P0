@@ -9,7 +9,7 @@
 # Acknowledgements:
 #  Mr. Scott Heggens
 #  TA Rusty Doston
-#  TA Will Romano
+#  TA Will
 #  Sher Sanginov (CS department)
 ####################################################################################
 

@@ -6,7 +6,6 @@
 
 import threading
 import time
-import turtle
 
 from tkinter import *
 
@@ -55,7 +54,6 @@ class ThreadingExample(object):
                  my_gui = GUIme(root, self.alex.counter)
                  root.mainloop()
                  self.wn.bye()
-                 # or turtle.exitonclick()
 
 
             time.sleep(self.interval)
